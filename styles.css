@@ -1,0 +1,124 @@
+html body{
+    background-color:rgb(205, 223, 43);
+    /* background-image:url(./images/ceramic-5510008.jpg);  */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+   
+}
+table {
+    border:2px solid;
+    margin-top:25px;
+    font-size:20px;
+}
+.skills td{
+    border:2px solid;
+    border-collapse: collapse;
+}
+
+
+/* FirstSection */
+.firstsection{
+    
+    margin:50px ;
+    width:700px;
+    text-align:center;
+    margin-left:325px;
+    
+}
+.firstsection h5{
+    margin-top:30px;
+}
+/* .firstsection img{
+    position:
+}  */
+
+/* Education */
+
+.education{
+    margin:50px 90px 90px;
+    
+    
+}
+.education-one{
+    margin-top:50px;
+}
+.h2class{
+    font-size:22px;
+}
+
+/* .skills th{
+    border:1px solid;
+}
+.skills tr{
+    border:1px solid;
+}
+.skills td{
+    border:1px solid;
+} */
+.skills h1{
+    margin-top:40px;
+}
+.changecolor{
+    color:#fff;
+}
+.projects{
+    margin-top:60px;
+}
+.projects p{
+    margin-top:20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.specialcase{
+    position:relative;
+    top:-10px;
+}
+
+.contactme{
+    font-size:large;
+    position:relative;
+    top:-100px;
+    display:inline-block;
+}
+.contactme a{
+    text-decoration: none;
+}
+.messageme{
+    display:inline-block;
+}
+.messagemeclass{
+    position:relative;
+    top:-5px;
+    left:700px;
+}
+.formclass{
+    position: relative;
+    top:0px;
+    left:700px;
+}
+.changedisplay{
+    display:block;
+}
+.borderclass{
+    border:1px black solid;
+    margin:10px 90px;
+}
+.marginclass2{
+    margin:50px 0;
+}
+/* .lastsection{
+    position:relative;
+    top:-50px;
+} */
+.imageclass{
+   
+    height:220px;
+    width:200px;
+    border-radius:100%;
+    border:2px black solid;
+    /* position:absolute;
+    left:950px;
+    top:100px; */
+}
+
+
